@@ -18,12 +18,12 @@ The implementation is included in Code and the detailed explaination for each st
 ### Results
 Given  a set of 5 images of Unity Hall at WPI:
 <p align="center">
-  <img src="Data\input\imgs.png" alt="euroc_mh_01_easy" width="500"/>
+  <img src="Data\input\imgs.png" alt="input" width="500"/>
 </p>
 
 The end result we obtained was:
 <p align="center">
-  <img src="Data\IntermediateOutputImages\Final.png" alt="euroc_mh_01_easy" width="500"/>
+  <img src="Data\IntermediateOutputImages\Final.png" alt="output" width="500"/>
 </p>
 
 Where we can see the 5 estimated camera poses and the 2D point cloud of the building from a top view. 
