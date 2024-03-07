@@ -18,7 +18,11 @@ The implementation is included in Code and the detailed explaination for each st
 ### Results
 Given  a set of 5 images of Unity Hall at WPI:
 <p align="center">
-  <img src="Data\input\imgs.png" alt="input" width="500"/>
+  <img src="InputData\1.png" alt="input" width="100"/>
+  <img src="InputData\2.png" alt="input" width="100"/>
+  <img src="InputData\3.png" alt="input" width="100"/>
+  <img src="InputData\4.png" alt="input" width="100"/>
+  <img src="InputData\5.png" alt="input" width="100"/>
 </p>
 
 The end result we obtained was:
